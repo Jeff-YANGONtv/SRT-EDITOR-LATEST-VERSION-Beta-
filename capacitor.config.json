@@ -1,0 +1,6 @@
+{
+  "appId": "com.ygntv.editor",
+  "appName": "YGNTV",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
